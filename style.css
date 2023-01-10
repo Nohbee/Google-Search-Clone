@@ -1,0 +1,200 @@
+.body{
+    margin: 30px 70px;
+    font-family: 'Montserrat', sans-serif;
+    /* margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 30px; */
+}
+.searchbar{
+    width: 600px;
+    height: 50px;
+    font-size: 24px;
+    color: black;
+    border: none;
+}
+.fa-solid{
+    color: blue;
+    margin-top: 5px;
+}
+.searchandicons{
+    display: flex;
+    border: 1px solid transparent;
+    box-shadow: 0 2px 5px 1px rgb(64 60 67 / 16%);
+    width: 900px;
+    border-radius: 30px;
+}
+.searchbarandlogo{
+    display: flex;
+    gap: 70px;
+}
+.voiceicon{
+    padding-top: 15px;
+}
+.cancelicon{
+    margin-top: 20px;
+}
+.icons{
+    gap: 10px;
+}
+.othericons{
+    margin-left: 180px;
+    margin-top: 15px;
+    display: flex;
+    gap: 40px;
+}
+.mainbody{
+margin-left: 180px;
+}
+.onsv{
+    margin-top: 30px;
+    display: flex;
+    gap: 20px;
+}
+.lmsmall{
+    border-radius: 20px;
+    height: 70px;
+    width: 56px;
+}
+.lmpn{
+    display: flex;
+    gap: 20px;
+}
+.bigname{
+    font-size: 35px;
+}
+.but{
+    border-radius: 20px;
+    border: none;
+    font-size: 22px;
+    padding: 20px;
+    margin-left: 5px;
+    color: rgb(56, 55, 55);
+}
+.overview{
+    border: 1px solid black;
+}
+#onsvline{
+    box-shadow: none;
+    border: 1px solid rgb(228, 223, 223);
+    padding: -2px;
+}
+.me{
+    margin: -1px;
+}
+.me1{
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+.me4{
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+.newsflex2{
+    display: flex;
+    gap: 30px;
+    padding-bottom: 30px;
+}
+.newsflex1{
+    display: flex;
+    gap: 30px;
+}
+
+.newslink{
+    color: blue;
+    font-size: 20px;
+    text-decoration: none;
+}
+.newsfi{
+    height: 100px;
+    width: 80px;
+    border-radius: 25px;
+}
+.time{
+    font-size: 18px;
+    color: gray;
+}
+.morenews{
+    font-size: 20px;
+    padding: 10px 100px;
+    border-radius: 30px;
+    border: 1px solid transparent;
+    margin-left: 260px;
+}
+.fa-arrow-right{
+    color: grey;
+}
+.faqhr{
+    width: 850px;
+    margin-right: 500px;
+    border: 1px solid rgb(228, 223, 223);
+}
+.faq{
+    font-size: 20px;
+}
+.paa{
+    font-size: 25px;
+}
+.clickables{
+    padding-top: 20px;
+}
+.linkroad{
+    font-size: 17px;
+    color: rgb(31, 30, 30);
+    
+}
+.titleoflink{
+    text-decoration: none;
+    color: rgb(3, 3, 126);
+    font-weight: 300;
+    font-size: 25px;
+    margin-top: -100px;
+}
+.webintro{
+    font-size: 18px;
+    color: rgb(88, 88, 88);
+}
+.linkts{
+    padding-bottom: 10px;
+}
+.direction{
+    color: rgb(88, 88, 88);
+}
+.ytimage{
+    height: 100px;
+    width: 150px;
+    border-radius: 7px;
+}
+.yttopic{
+    color: rgb(3, 3, 126);
+    text-decoration: none;
+    font-size: 20px;
+}
+.yttlink{
+    font-size: 18px;
+}
+.ytlink{
+    color: gray;
+}
+.mvidadet{
+    display: flex;
+    gap: 20px;
+}
+.searchi{
+    color: grey;
+    margin-right: 20px;
+}
+.downb{
+    padding: 25px 120px;
+    border-radius: 30px;
+    border: 1px solid transparent;
+    font-size: 20px;
+    text-align: left;
+}
+.bddiv{
+    display: flex;
+    gap: 20px;
+    padding-top: 20px;
+}
+.mainflex{
+    display: flex;
+}
